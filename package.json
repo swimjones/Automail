@@ -9,10 +9,12 @@
   "author": "Noah Williams",
   "license": "MIT",
   "devDependencies": {
-    "electron": "^2.0.0"
-  }
-  "repository":{
+    "electron": "^2.0.0",
+    "electron-rebuild": "^1.7.3",
+    "nodemailer": "^4.6.4"
+  },
+  "repository": {
     "type": "git",
-    "url": "x"
+    "url": "https://github.com/swimjones/Automail.git"
   }
 }
